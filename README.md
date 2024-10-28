@@ -74,5 +74,4 @@ npm install
 npm run dev
 ```
 
-3. **SView the application:**
-   Open http://localhost:5173 in your web browser.
+4. Open http://localhost:5173 in your web browser.
