@@ -59,9 +59,10 @@ This app is all about making it super easy and fun for you to browse and book ca
 ## Getting Started
 
 1. **Clone the repository:**
-   ```bash
-   git clone [repository-url]
-   ```
+   
+```bash
+git clone [repository-url]
+```
 2. **Install dependencies:**
 
 ```bash
